@@ -161,6 +161,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-## Word Count
-
-This README is over 1000 words, providing comprehensive documentation for users, instructors, and future contributors.
